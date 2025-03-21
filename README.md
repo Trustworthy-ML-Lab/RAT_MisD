@@ -66,3 +66,13 @@ openmix
 
 ![](https://github.com/user-attachments/assets/26e5d172-939f-43f1-a4c8-19fd3e2d5007)
 *Figure 2:* MisD results on ImageNet dataset.
+
+## Cite our work
+```
+@article{yan2025rat,
+  title={RAT: Boosting Misclassification Detection Ability without Extra Data},
+  author={Yan, Ge and Weng, Tsui-Wei},
+  journal={arXiv preprint arXiv:2503.14783},
+  year={2025}
+}
+```
