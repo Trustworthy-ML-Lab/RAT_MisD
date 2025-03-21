@@ -1,0 +1,13 @@
+__pycache__
+save
+*.pyc
+logs
+val_logs
+imgs
+analysis
+results
+*.pth
+*.out
+fulltest
+radtrainer
+sbatch*
